@@ -3,7 +3,7 @@
   
   <!-- msm8998 -->
   <project path="hardware/qcom/audio-caf/msm8998" name="Koenkk/android_hardware_qcom_audio" groups="qcom,qcom_audio" revision="cm-14.1-caf-8998" />
-  <project path="hardware/qcom/display-caf/msm8998" name="Koenkk/android_hardware_qcom_display" groups="pdk,qcom,qcom_display" revision="cm-14.1-caf-8998" />
+  <project path="hardware/qcom/display-caf/msm8998" name="LineageOS/android_hardware_qcom_display" groups="pdk,qcom,qcom_display" revision="cm-14.1-caf-8998" />
   <project path="hardware/qcom/media-caf/msm8998" name="Koenkk/android_hardware_qcom_media" groups="qcom" revision="cm-14.1-caf-8998" />
 
   <!-- Cheeseburger (OnePlus 5) -->
