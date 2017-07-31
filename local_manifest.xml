@@ -2,8 +2,6 @@
 <manifest>
   
   <!-- msm8998 -->
-  <remove-project name="LineageOS/android_hardware_qcom_audio"/>
-  <project path="hardware/qcom/audio-caf/msm8998" name="Koenkk/android_hardware_qcom_audio" groups="qcom,qcom_audio" revision="cm-14.1-caf-8998" />
   <project path="kernel/oneplus/msm8998" name="Koenkk/android_kernel_oneplus_msm8998" revision="cm-14.1" />
 
   <!-- Cheeseburger (OnePlus 5) -->
