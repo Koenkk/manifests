@@ -5,8 +5,8 @@
   <project path="kernel/oneplus/msm8998" name="Koenkk/android_kernel_oneplus_msm8998" revision="cm-14.1" />
   
   <!-- common -->
-  <!--project name="Koenkk/android_device_oneplus_common" path="device/oneplus/common" remote="github" revision="cm-14.1" /-->
-  <project name="LineageOS/android_device_oppo_common" path="device/oppo/common" remote="github" revision="cm-14.1" />
+  <project name="Koenkk/android_device_oneplus_common" path="device/oneplus/common" remote="github" revision="cm-14.1" />
+  <!--project name="LineageOS/android_device_oppo_common" path="device/oppo/common" remote="github" revision="cm-14.1" /-->
   <project name="LineageOS/android_device_qcom_common" path="device/qcom/common" remote="github" revision="cm-14.1" />
 
   <!-- cheeseburger -->
