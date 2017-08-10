@@ -27,4 +27,5 @@
   <!-- BT -->
   <remove-project name="LineageOS/android_system_bt"/>
   <project path="system/bt" name="Koenkk/android_system_bt" groups="pdk" />
+ 
 </manifest>
