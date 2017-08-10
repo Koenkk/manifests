@@ -24,4 +24,7 @@
   <!-- others -->
   <project name="LineageOS/android_packages_resources_devicesettings" path="packages/resources/devicesettings" remote="github" revision="cm-14.1" />
 
+  <!-- BT -->
+  <remove-project name="LineageOS/android_system_bt"/>
+  <project path="system/bt" name="Koenkk/android_system_bt" groups="pdk" />
 </manifest>
