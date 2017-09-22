@@ -11,7 +11,7 @@
   <!-- hardware/qcom -->
   <remove-project name="LineageOS/android_hardware_qcom_audio" revision="lineage-15.0-caf-8998" />
   <remove-project name="LineageOS/android_hardware_qcom_media" revision="lineage-15.0-caf-8998" />
-  <project path="hardware/qcom/audio-caf/msm8998" name="NastyAndroidDevs/android_hardware_qcom_audio" revision="lineage-15.0-caf-8998" remote="github" />
+  <project path="hardware/qcom/audio-caf/msm8998" name="Koenkk/android_hardware_qcom_audio" revision="lineage-15.0-caf-8998" remote="github" />
   <project path="hardware/qcom/media-caf/msm8998" name="NastyAndroidDevs/android_hardware_qcom_media" revision="lineage-15.0-caf-8998" remote="github" />
 
   <!-- vendor -->
