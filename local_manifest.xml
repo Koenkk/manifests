@@ -15,6 +15,6 @@
   <project path="hardware/qcom/media-caf/msm8998" name="NastyAndroidDevs/android_hardware_qcom_media" revision="lineage-15.0-caf-8998" remote="github" />
 
   <!-- vendor -->
-  <project name="NastyAndroidDevs/proprietary_vendor_oneplus" path="vendor/oneplus" remote="github" />
+  <project name="Koenkk/proprietary_vendor_oneplus" path="vendor/oneplus" remote="github" />
 
 </manifest>
