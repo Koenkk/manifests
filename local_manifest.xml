@@ -16,5 +16,9 @@
 
   <!-- vendor -->
   <project name="NastyAndroidDevs/proprietary_vendor_oneplus" path="vendor/oneplus" remote="github" />
-
+  
+  <!-- hardware/qcom -->
+  <remove-project name="LineageOS/android_frameworks_av" />
+  <project name="arco/android_frameworks_av" path="frameworks/av" remote="github" revision="staging/lineage-15.0" />
+  
 </manifest>
