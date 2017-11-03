@@ -23,6 +23,6 @@
   <project path="hardware/qcom/media-caf/msm8998" name="Koenkk/android_hardware_qcom_media" revision="lineage-15.0-caf-8998" remote="github" />
 
   <!-- vendor -->
-  <project path="vendor/oneplus" name="Koenkk/proprietary_vendor_oneplus" remote="github" />
+  <project path="vendor/oneplus" name="Koenkk/proprietary_vendor_oneplus" remote="github" revision="lineage-15.0-dev" />
   
 </manifest>
