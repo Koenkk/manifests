@@ -8,6 +8,8 @@
   <!-- frameworks -->
   <remove-project name="LineageOS/android_frameworks_av" />
   <project path="frameworks/av" name="Koenkk/android_frameworks_av" remote="github" revision="lineage-15.0" />
+  <remove-project name="LineageOS/android_frameworks_base" />
+  <project path="frameworks/base" name="Koenkk/android_frameworks_base" remote="github" revision="lineage-15.0" />
   
   <!-- device settings -->
   <project path="packages/resources/devicesettings" name="LineageOS/android_packages_resources_devicesettings" remote="github" />
