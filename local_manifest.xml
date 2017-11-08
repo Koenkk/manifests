@@ -8,6 +8,8 @@
   <!-- frameworks -->
   <remove-project name="LineageOS/android_frameworks_av" />
   <project path="frameworks/av" name="Koenkk/android_frameworks_av" remote="github" revision="lineage-15.0" />
+  <remove-project name="LineageOS/android_frameworks_base" />
+  <project path="frameworks/base" name="Koenkk/android_frameworks_base" remote="github" revision="lineage-15.0" />
   
   <!-- device settings -->
   <project path="packages/resources/devicesettings" name="LineageOS/android_packages_resources_devicesettings" remote="github" />
@@ -19,10 +21,10 @@
   <!-- hardware/qcom -->
   <remove-project name="LineageOS/android_hardware_qcom_audio" revision="lineage-15.0-caf-8998" />
   <remove-project name="LineageOS/android_hardware_qcom_media" revision="lineage-15.0-caf-8998" />
-  <project path="hardware/qcom/audio-caf/msm8998" name="Koenkk/android_hardware_qcom_audio" revision="lineage-15.0-caf-8998" remote="github" />
+  <project path="hardware/qcom/audio-caf/msm8998" name="Koenkk/android_hardware_qcom_audio" revision="lineage-15.0-caf-8998-dev" remote="github" />
   <project path="hardware/qcom/media-caf/msm8998" name="Koenkk/android_hardware_qcom_media" revision="lineage-15.0-caf-8998" remote="github" />
 
   <!-- vendor -->
-  <project path="vendor/oneplus" name="Koenkk/proprietary_vendor_oneplus" remote="github" revision="lineage-15.0-dev" />
+  <project path="vendor/oneplus" name="Koenkk/proprietary_vendor_oneplus" remote="github" />
   
 </manifest>
