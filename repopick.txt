@@ -1,5 +1,3 @@
-#!/bin/bash
-
 repopick 189546
 repopick 189547
 repopick 189548
