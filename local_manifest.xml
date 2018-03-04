@@ -19,11 +19,11 @@
     <project name="NastyAndroidDevs/android_frameworks_opt_net_wifi" path="frameworks/opt/net/wifi" remote="github" revision="lineage-15.1" />
 
     <!-- qcom-cam-lineage-15.1 -->
-    <remove-project name="vendor/lineage" />
+    <remove-project name="LineageOS/android_vendor_lineage" />
     <project name="Koenkk/android_vendor_lineage" path="vendor/lineage" remote="github" revision="lineage-15.1" />
-    <remove-project name="hardware/interfaces" />
+    <remove-project name="LineageOS/android_hardware_interfaces" />
     <project name="Koenkk/android_hardware_interfaces" path="hardware/interfaces" remote="github" revision="lineage-15.1" />
-    <remove-project name="frameworks/av" />
+    <remove-project name="LineageOS/android_frameworks_av" />
     <project name="Koenkk/android_frameworks_av" path="frameworks/av" remote="github" revision="lineage-15.1" />
     
 </manifest>
