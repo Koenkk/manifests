@@ -14,10 +14,6 @@
     <!-- Vendor -->
     <project name="TheMuppets/proprietary_vendor_oneplus" path="vendor/oneplus" remote="github" revision="lineage-15.1" />
     
-    <!-- Wifi -->
-    <remove-project name="platform/frameworks/opt/net/wifi" />
-    <project name="NastyAndroidDevs/android_frameworks_opt_net_wifi" path="frameworks/opt/net/wifi" remote="github" revision="lineage-15.1" />
-
     <!-- qcom-cam-lineage-15.1 -->
     <remove-project name="LineageOS/android_vendor_lineage" />
     <project name="Koenkk/android_vendor_lineage" path="vendor/lineage" remote="github" revision="lineage-15.1" />
